@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "SVDMx"]
 	path = SVDMx
-	url = https://github.com/cran/SVDMx
+	url = https://github.com/sinafala/svdmx
